@@ -1,6 +1,8 @@
-## Tribute Page
-Throughout the Responsive Web Design course, there are some projects that is required to complete in order to earn the certification.
-This is the second required project and for this project, I needed to build a tribute page for a subject of my own choosing, fictional or real.
+## [Tribute Page](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page)
+This is one of the required projects to earn the [Responsive Web Design Certification](https://www.freecodecamp.org/learn/2022/responsive-web-design/) from freeCodeCamp.
+For this project, you build a tribute page for a subject of your choosing, fictional or real.
+
+---
 
 **Objective**: Build an app that is functionally similar to https://tribute-page.freecodecamp.rocks. Do not copy this demo project.
 
@@ -18,5 +20,3 @@ This is the second required project and for this project, I needed to build a tr
 Fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. Happy Coding!
 
 **Note**: Be sure to add <link rel="stylesheet" href="styles.css"> in your HTML to link your stylesheet and apply your CSS
-
-[Responsive Web Design - Tribute Page](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page)
